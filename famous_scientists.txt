@@ -1,0 +1,27 @@
+Last Name,First Name(s),born,died,field
+Einstein,Albert,1879,1955,physics
+Hubble,Edwin Powell,1889,1953,astronomy
+Planck,Max,1858,1947,physics
+Lovelace,Ada,1815,1852,mathematics
+Babbage,Charles,1791,1871,mathematics
+Heisenberg,Werner,1901,1976,mathematics
+Skolodowska Curie,Marie,1867,1934,physics
+Curie,Pierre,1859,1906,physics
+Swan Leavitt,Henrietta,1868,1921,astronomy
+Jump Cannon,Annie,1863,1941,astronomy
+Herschel,Caroline,1750,1848,astronomy
+Fleming,Williamina,1857,1911,astronomy
+Meitner,Lisa,1878,1968,physics
+Noether,Emmy,1882,1935,physics
+of Alexandria,Hypathia,355,405,mathematics
+of Syracuse,Archimedes,-287,-212,mathematics
+Germain,Sophie,1776,1831,mathematics
+Agnasi,Maria Gaetana,1718,1799,mathematics
+Gauss,Carl Friedrich,1777,1855,mathematics
+Pascal,Blaise,1623,1662,mathematics
+Turing,Alan,1912,1954,mathematics
+Faraday,Michael,1791,1867,physics
+Emden,Robert,1862,1940,astronomy
+Eddington,Arthur Stanley,1882,1944,astronomy
+Halley,Edmond,1656,1742,astronomy
+Flamsteed,John,1646,1719,astronomy
